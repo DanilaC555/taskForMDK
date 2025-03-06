@@ -1,0 +1,15 @@
+{
+    "name": "mdk2/task2",
+    "autoload": {
+        "psr-4": {
+            "App\\Task2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danila Cheshuin",
+            "email": "danila.supreme@bk.ru"
+        }
+    ],
+    "require": {}
+}
